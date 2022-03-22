@@ -1,7 +1,7 @@
-# Bikeshare-system-project
+# Bikeshare-system-project #
 ## Overview ##
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
-______________________________________________________________________________________________
+
 ## What Software Do I Need? ##
 To complete this project, the following software requirements apply:
 
@@ -11,7 +11,7 @@ Python 3, NumPy, and pandas installed using Anaconda
 A text editor, like Sublime or Atom.
 A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-______________________________________________________________________________________________
+
 ## Datasets ##
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -31,8 +31,8 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 
 *Birth Year
 
-__________________________________________________________________________________
 ## Statistics Computed ##
+
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 ### 1 Popular times of travel (i.e., occurs most often in the start time) ###
