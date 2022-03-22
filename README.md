@@ -41,7 +41,7 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 
 * most common day of week
 
-* most common hour of day #2 Popular stations and trip
+* most common hour of day _2 Popular stations and trip_
 
 * most common start station
 
@@ -51,7 +51,7 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 
 * total travel time
 
-* average travel time _ 4 User info _
+* average travel time _4 User info_
 
 * counts of each user type
 
